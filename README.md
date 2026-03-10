@@ -2,13 +2,5 @@
 **Telegram Bot che genera password**
 blabla
 bla
-.
-├── bot/                # Codice sorgente del bot
-│   ├── __init__.py
-│   └── main.py         # Entry point del bot
-├── tests/              # Test unitari e di integrazione
-│   └── __init__.py
-├── .github/workflows/  # Configurazione GitHub Actions (CI/CD)
-├── .gitignore          # File da escludere da Git (es. venv, .env)
-├── requirements.txt    # Dipendenze del progetto
-└── README.md           # Documentazione
+<img width="608" height="224" alt="image" src="https://github.com/user-attachments/assets/691794e4-fff8-4a4b-99d2-8a08b45792c9" />
+
